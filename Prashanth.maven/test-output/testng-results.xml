@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T19:13:20 IST" name="Default suite" finished-at="2024-01-08T19:13:28 IST" duration-ms="8278">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T19:13:20 IST" name="Default test" finished-at="2024-01-08T19:13:28 IST" duration-ms="8278">
+      <class name="testcases.loginfunctionality">
+        <test-method is-config="true" signature="url()[pri:0, instance:testcases.loginfunctionality@55634720]" started-at="2024-01-08T19:13:20 IST" name="url" finished-at="2024-01-08T19:13:22 IST" duration-ms="2772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="Enterhomepage()[pri:0, instance:testcases.loginfunctionality@55634720]" started-at="2024-01-08T19:13:22 IST" name="Enterhomepage" finished-at="2024-01-08T19:13:28 IST" duration-ms="5319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enterhomepage -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:testcases.loginfunctionality@55634720]" started-at="2024-01-08T19:13:28 IST" name="Close" finished-at="2024-01-08T19:13:28 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- testcases.loginfunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
